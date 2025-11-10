@@ -1,7 +1,6 @@
 # Análise Quantitativa de Repasses Federais: RN vs. PB (2023-2025)
 
 ![Visualização Principal](visualizacao.png)
-*(Sugestão: Tire um print do seu gráfico "Top 10 vs. Piores 10 Per Capita" (Célula 15) e adicione aqui)*
 
 ---
 
@@ -18,10 +17,14 @@ Esta análise transformou dados brutos em três níveis de conhecimento:
 #### Insight 1: A Paraíba arrecadou R$ 7,2 Bilhões a mais (Valor Absoluto)
 A análise macro revelou que a Paraíba (PB) arrecadou **R$ 29.6 bilhões** no período, significativamente mais que o Rio Grande do Norte (RN), que totalizou **R$ 22.4 bilhões**. Essa diferença é em grande parte explicada pela arrecadação superior das capitais, onde João Pessoa (PB) superou Natal (RN).
 
+![Insight1](insight1.png)
+
 #### Insight 2: A receita do RN é 1,6x mais arriscada (Análise de Volatilidade)
 A análise de composição mostrou que o RN depende mais de Royalties (4.93% da sua receita) que a PB (1.76%). Para quantificar o risco disso, utilizei o **Coeficiente de Variação (CV)**:
 * **FPM (PB & RN):** CV de **~28%** (mais estável).
 * **Royalties (PB & RN):** CV de **~45%** (mais instável).
+
+![Insight2](insight2.png)
 
 **Conclusão:** A receita de Royalties é **1,6 vez mais volátil** que o FPM, tornando o planejamento financeiro dos municípios potiguares mais imprevisível.
 
